@@ -1,5 +1,6 @@
 <p align="center" width="100%">
 <img width="120" alt="AltBot app icon" src="Screenshots/AppIcon.png">
+<img width="120" alt="AltBot Lite app icon" src="Screenshots/AppIconLite.png">
 </p>
 
 <h1 align="center">AltBot</h1>
