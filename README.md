@@ -27,6 +27,15 @@ Run this app on devices with 8GB+ RAM, otherwise it will take a long time to res
 - iPad Air 5th gen or later
 - iPad Pro with M1 or later
 
+### Differences between apps
+
+Here are the differences between AltBot and AltBot Lite:
+- AltBot displays tokens as they are loaded
+- AltBot can stop token loading
+- AltBot uses Llama-3 (released March 2024)
+- AltBot Lite uses Mistral-7B (released Sep 2023)
+- AltBot will receive future updates, AltBot Lite will remain in version 1.1.
+
 ## Privacy Policy
 
 This repository helps as a support page. If you would like to raise a concern, issue or request, sign in and create a new topic in the "Issues" tab.
