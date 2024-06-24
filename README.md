@@ -8,7 +8,7 @@
 # Your local chatbot iOS/Mac companion
 
 <p align="center" width="100%">
-<img width="500" alt="AltBot app icon" src="Screenshots/AltBot/iPhone/02-Question1.PNG">
+<img width="500" alt="AltBot app icon" src="Screenshots/AltBot/v1.3/iPhone/02-Question1.PNG">
 </p>
 
 AltBot is a friendly and helpful local chatbot assistant designed specifically for iOS & Mac users.
